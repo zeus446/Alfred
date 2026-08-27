@@ -74,7 +74,7 @@ The frontend talks to a **FastAPI** backend, which exposes the orchestration age
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-org>/alfred.git
+git clone https://github.com/zeus446/Alfred.git
 cd alfred
 cp .env.example .env   # fill in your keys
 ```
